@@ -25,7 +25,7 @@ build:
     - dispatch_srvr=pyutilib.pyro.dispatch_srvr:main
 
 requirements:
-  build:
+  host:
     - python
     - setuptools
     - nose
