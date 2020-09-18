@@ -56,7 +56,6 @@ test:
     - pyutilib.dev
     - pyutilib.dev.tests
     - pyutilib.enum
-    - pyutilib.enum.tests
     - pyutilib.excel
     - pyutilib.excel.tests
     - pyutilib.factory
